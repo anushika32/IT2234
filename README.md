@@ -8,6 +8,13 @@ common elements between two arrays
 JSON performance
 ![json](https://github.com/user-attachments/assets/eb612db7-e536-4afe-a817-389268a2a910)
 
+JSON Home work
+![HwJson1](https://github.com/user-attachments/assets/95cf0253-6c62-470a-ae95-a568a362b98c)
+![HwJson2](https://github.com/user-attachments/assets/ce1e94e4-6fc4-4d0c-be87-50ac05ac0bd6)
+![HwJson3](https://github.com/user-attachments/assets/b6e3c7c8-c144-4f9d-a412-3fe3f313a679)
+![HwJson4](https://github.com/user-attachments/assets/3e617bf5-7c7d-48cd-882d-c8e6e9337e90)
+
+
 max value of the array
 ![maxArray](https://github.com/user-attachments/assets/8db2c3d6-6a90-4502-b6d6-da02f3c9760f)
 
