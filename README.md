@@ -1,9 +1,5 @@
 # IT2234
 
-
-### Postman Found Student and Filter Gender
-<img src="3.png" alt="postmanFoundStudent" width="800" height="400">
-
 ### Post Comments Endpoint
 <img src="Post Comments Endpoint.png" alt="postComments" width="800" height="400">
 
