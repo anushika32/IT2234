@@ -1,10 +1,5 @@
 # IT2234
 
-### Postman Server
-<img src="1.png" alt="postmanServer" width="800" height="400">
-
-### Postman App Student ID
-<img src="2.png" alt="postmanAppStuid" width="800" height="400">
 
 ### Postman Found Student and Filter Gender
 <img src="3.png" alt="postmanFoundStudent" width="800" height="400">
